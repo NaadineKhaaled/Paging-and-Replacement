@@ -19,7 +19,6 @@ For each run, you should print the following:
 1. A trace recording page faults for each memory reference in the sequence.
 2. Counter recording total page faults.
 
-2
 
 We will have the following results (notice the two-digit page numbers):
 Replacement Policy = FIFO
